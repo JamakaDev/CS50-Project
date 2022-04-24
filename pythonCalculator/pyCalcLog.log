@@ -1,0 +1,31 @@
+46 : 2022-04-23 21:41:01,453 : thisOperand:7 => 7 clicked
+107 : 2022-04-23 21:41:02,421 : not isChain => - clicked
+46 : 2022-04-23 21:41:02,942 : thisOperand:9 => 9 clicked
+117 : 2022-04-23 21:41:03,374 : -2.0, -, 9 => equals clicked
+41 : 2022-04-23 21:41:04,212 : Exiting
+46 : 2022-04-23 21:41:32,854 : thisOperand:2 => 2 clicked
+107 : 2022-04-23 21:41:33,406 : not isChain => * clicked
+46 : 2022-04-23 21:41:33,805 : thisOperand:6 => 6 clicked
+117 : 2022-04-23 21:41:34,398 : 12.0, *, 6 => equals clicked
+93 : 2022-04-23 21:41:35,165 : isChain & not thisOperand => / clicked
+46 : 2022-04-23 21:41:37,126 : thisOperand:2 => 2 clicked
+117 : 2022-04-23 21:41:39,373 : 6.0, /, 2 => equals clicked
+41 : 2022-04-23 21:41:40,343 : Exiting
+46 : 2022-04-23 21:41:51,861 : thisOperand:5 => 5 clicked
+46 : 2022-04-23 21:41:52,422 : thisOperand:57 => 7 clicked
+46 : 2022-04-23 21:41:52,718 : thisOperand:578 => 8 clicked
+107 : 2022-04-23 21:41:53,254 : not isChain => + clicked
+46 : 2022-04-23 21:41:53,950 : thisOperand:3 => 3 clicked
+99 : 2022-04-23 21:41:54,518 : isChain & thisOperand & lastOperand => / clicked
+46 : 2022-04-23 21:41:55,446 : thisOperand:2 => 2 clicked
+117 : 2022-04-23 21:41:56,526 : 290.5, /, 2 => equals clicked
+78 : 2022-04-23 21:41:57,501 : (+/-)-290.5 => neg clicked
+93 : 2022-04-23 21:41:58,174 : isChain & not thisOperand => * clicked
+46 : 2022-04-23 21:41:59,414 : thisOperand:6 => 6 clicked
+73 : 2022-04-23 21:41:59,878 : (+/-)-6.0 => neg clicked
+117 : 2022-04-23 21:42:00,782 : 1743.0, *, -6.0 => equals clicked
+41 : 2022-04-23 21:42:01,767 : Exiting
+45 : 2022-04-23 21:42:49,918 : thisOperand:3 => 3 clicked
+106 : 2022-04-23 21:42:51,549 : not isChain => - clicked
+92 : 2022-04-23 21:42:54,830 : isChain & not thisOperand => + clicked
+40 : 2022-04-23 21:42:55,951 : Exiting
