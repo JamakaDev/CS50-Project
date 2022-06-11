@@ -12,3 +12,33 @@ Upon further research into Python, I came to find a few GUI (Graphical User Inte
   - *PySimpleGUI*
   - *Kivy*
   - *PyQt5*
+
+While I chose to go with PySimpleGUI for my project,
+I found that PyQt5 had more to offer also with a decent community
+along with Kivy being in the same boat that they were both an
+overkill for this little test of my own.
+
+To further expand on the last statement of testing myself:
+  - With this final project, I decided to hold myself to:
+    1. Learn more about the language of choice (**Python**)
+    2. Come up with idea and how to initiate it.
+    3. Research and learn the necessary frameworks/ libraries
+    4. Demonstrate that newfound knowledge by implementing into project
+    5. Create tests & logs to further gain exp testing/logging code
+    6. Come out of it having the ability to **LEARN ANY CODE OR LANGUAGE**
+
+## **Project Description**
+-I created a program that opens a calculator for use
+with a themed GUI to match the lang of choice
+
+-The fact that the porject being a calculator is not all
+that impressive is something even I thought...haha
+
+## PyCalc > calculator
+1. *I did **NOT** use eval function for any of the application*
+  - Not using the eval function allowed me to learn how not to create the functions for computing but how importing works and more on file handling
+  - This allowed me to keep the executable file shorter and cleaner.
+2. After finalizing the functions inside the other Python file, I imported the GUI library and got started on creating the layout and design.
+  - I went with a 4x5 button layout & display above that
+  - The color scheme I went with were the Python OG blue & yellow
+3. Once the application was working, I then decided to implement a logging system to review upon any errors the *USER* may incur!
