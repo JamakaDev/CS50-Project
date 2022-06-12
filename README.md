@@ -1,12 +1,11 @@
 # **PyCalc**
 ### Video Demo:  **<URL HERE>**
-## Description:
+## Description of my *CS50 Final Project*:
 I decided on Python as my language of choice for the project. Below is a list of just a few reasons for my decision:
   1. Python is versatile along with clear syntax
   2. The community seemed to be massive and supportive (as others are I'm sure)
   3. With that massive community brings forth **many** pre-built libraries & frameworks
   
-
 Upon further research into Python, I came to find a few GUI (Graphical User Interface)
   frameworks/libraries that could be imported once downloaded.
   - *PySimpleGUI*
@@ -29,10 +28,12 @@ To further expand on the last statement of testing myself:
 
 ## **Project Description**
 -I created a program that opens a calculator for use
-with a themed GUI to match the lang of choice
+with a themed GUI to match the language of choice
 
--The fact that the porject being a calculator is not all
+-The fact that the project being a calculator is not all
 that impressive is something even I thought...haha
+  
+-Let me explain below what the end result/goal was for me to achieve! :)
 
 ## PyCalc > calculator
 1. *I did **NOT** use eval function for any of the application*
@@ -55,9 +56,10 @@ that impressive is something even I thought...haha
     2. **PyTest**
     3. **Unittest**
     4. **DocTest**
+  
   -For the purpose of this lil project, I chose to go with **Unittest**.
   -Unittest is *built-in* to **Python** and easily imported -> implemented!
   - I did this through a seperate file to keep the testing code from **clogging** up the source/ production code.
 
 
-## I would like to formally **Thank You** for taking the time to read through this adventure or journey of mine! I decided 7 months ago (Nov 2021) that I was going to start my journey to become self-taught developer! I would also like to send big shout out to the **CS50** staff for all the hard work and dedication put into this curriculum accessible to the public!!
+## I would like to formally *Thank You* for taking the time to read through this adventure or journey of mine! I decided 7 months ago (Nov 2021) that I was going to start my journey to become self-taught developer! I would also like to send big shout out to the *CS50* staff for all the hard work and dedication put into this curriculum accessible to the public!!
