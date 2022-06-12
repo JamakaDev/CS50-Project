@@ -52,3 +52,173 @@
 115 : 2022-06-12 18:41:02,186 : 3.0, +, 9 => equals clicked
 64 : 2022-06-12 18:41:05,226 : Clear All : CE clicked
 39 : 2022-06-12 18:41:08,205 : Exiting
+44 : 2022-06-12 18:45:50,879 : thisOperand:1 => 1 clicked
+105 : 2022-06-12 18:45:51,671 : not isChain => + clicked
+44 : 2022-06-12 18:45:52,537 : thisOperand:2 => 2 clicked
+115 : 2022-06-12 18:45:53,310 : 3.0, +, 2 => equals clicked
+64 : 2022-06-12 18:45:54,702 : Clear All : CE clicked
+44 : 2022-06-12 18:45:55,982 : thisOperand:2 => 2 clicked
+105 : 2022-06-12 18:45:56,790 : not isChain => * clicked
+44 : 2022-06-12 18:45:58,982 : thisOperand:5 => 5 clicked
+115 : 2022-06-12 18:45:59,718 : 10.0, *, 5 => equals clicked
+64 : 2022-06-12 18:46:00,894 : Clear All : CE clicked
+44 : 2022-06-12 18:46:02,759 : thisOperand:6 => 6 clicked
+105 : 2022-06-12 18:46:03,286 : not isChain => - clicked
+44 : 2022-06-12 18:46:04,030 : thisOperand:9 => 9 clicked
+115 : 2022-06-12 18:46:04,798 : -3.0, -, 9 => equals clicked
+64 : 2022-06-12 18:46:06,571 : Clear All : CE clicked
+44 : 2022-06-12 18:46:08,750 : thisOperand:5 => 5 clicked
+71 : 2022-06-12 18:46:09,528 : (+/-)-5.0 => neg clicked
+105 : 2022-06-12 18:46:11,118 : not isChain => / clicked
+44 : 2022-06-12 18:46:12,390 : thisOperand:2 => 2 clicked
+115 : 2022-06-12 18:46:13,318 : -2.5, /, 2 => equals clicked
+64 : 2022-06-12 18:46:15,359 : Clear All : CE clicked
+64 : 2022-06-12 18:46:16,014 : Clear All : CE clicked
+85 : 2022-06-12 18:46:16,950 : Decimal => decimal clicked
+44 : 2022-06-12 18:46:17,950 : thisOperand:.8 => 8 clicked
+105 : 2022-06-12 18:46:19,486 : not isChain => * clicked
+44 : 2022-06-12 18:46:20,454 : thisOperand:5 => 5 clicked
+44 : 2022-06-12 18:46:21,171 : thisOperand:50 => 0 clicked
+115 : 2022-06-12 18:46:21,782 : 40.0, *, 50 => equals clicked
+91 : 2022-06-12 18:46:22,846 : isChain & not thisOperand => / clicked
+44 : 2022-06-12 18:46:24,294 : thisOperand:2 => 2 clicked
+115 : 2022-06-12 18:46:24,982 : 20.0, /, 2 => equals clicked
+91 : 2022-06-12 18:46:26,014 : isChain & not thisOperand => - clicked
+44 : 2022-06-12 18:46:26,927 : thisOperand:3 => 3 clicked
+44 : 2022-06-12 18:46:27,469 : thisOperand:31 => 1 clicked
+71 : 2022-06-12 18:46:27,927 : (+/-)-31.0 => neg clicked
+115 : 2022-06-12 18:46:28,717 : 51.0, -, -31.0 => equals clicked
+64 : 2022-06-12 18:46:33,077 : Clear All : CE clicked
+44 : 2022-06-12 18:46:34,934 : thisOperand:2 => 2 clicked
+44 : 2022-06-12 18:46:37,094 : thisOperand:22 => 2 clicked
+64 : 2022-06-12 18:46:38,886 : Clear All : CE clicked
+39 : 2022-06-12 18:46:40,345 : Exiting
+39 : 2022-06-12 18:46:53,008 : Exiting
+44 : 2022-06-12 18:47:59,380 : thisOperand:1 => 1 clicked
+105 : 2022-06-12 18:48:00,080 : not isChain => + clicked
+44 : 2022-06-12 18:48:00,852 : thisOperand:2 => 2 clicked
+115 : 2022-06-12 18:48:01,540 : 3.0, +, 2 => equals clicked
+64 : 2022-06-12 18:48:03,279 : Clear All : CE clicked
+44 : 2022-06-12 18:48:04,612 : thisOperand:3 => 3 clicked
+105 : 2022-06-12 18:48:05,332 : not isChain => - clicked
+44 : 2022-06-12 18:48:06,116 : thisOperand:4 => 4 clicked
+115 : 2022-06-12 18:48:07,020 : -1.0, -, 4 => equals clicked
+64 : 2022-06-12 18:48:09,436 : Clear All : CE clicked
+44 : 2022-06-12 18:48:10,796 : thisOperand:8 => 8 clicked
+105 : 2022-06-12 18:48:11,476 : not isChain => * clicked
+44 : 2022-06-12 18:48:12,221 : thisOperand:6 => 6 clicked
+115 : 2022-06-12 18:48:13,052 : 48.0, *, 6 => equals clicked
+64 : 2022-06-12 18:48:14,388 : Clear All : CE clicked
+44 : 2022-06-12 18:48:15,916 : thisOperand:8 => 8 clicked
+44 : 2022-06-12 18:48:16,516 : thisOperand:81 => 1 clicked
+105 : 2022-06-12 18:48:17,340 : not isChain => / clicked
+44 : 2022-06-12 18:48:18,044 : thisOperand:9 => 9 clicked
+115 : 2022-06-12 18:48:18,724 : 9.0, /, 9 => equals clicked
+76 : 2022-06-12 18:48:20,220 : (+/-)-9.0 => neg clicked
+91 : 2022-06-12 18:48:21,828 : isChain & not thisOperand => * clicked
+44 : 2022-06-12 18:48:22,388 : thisOperand:3 => 3 clicked
+115 : 2022-06-12 18:48:23,069 : -27.0, *, 3 => equals clicked
+85 : 2022-06-12 18:48:25,876 : Decimal => decimal clicked
+44 : 2022-06-12 18:48:27,046 : thisOperand:.6 => 6 clicked
+97 : 2022-06-12 18:48:27,996 : isChain & thisOperand & lastOperand => - clicked
+44 : 2022-06-12 18:48:28,956 : thisOperand:9 => 9 clicked
+44 : 2022-06-12 18:48:30,996 : thisOperand:99 => 9 clicked
+44 : 2022-06-12 18:48:33,724 : thisOperand:999 => 9 clicked
+64 : 2022-06-12 18:48:35,436 : Clear All : CE clicked
+39 : 2022-06-12 18:48:39,198 : Exiting
+44 : 2022-06-12 18:48:58,867 : thisOperand:2 => 2 clicked
+105 : 2022-06-12 18:48:59,555 : not isChain => + clicked
+44 : 2022-06-12 18:49:00,099 : thisOperand:2 => 2 clicked
+115 : 2022-06-12 18:49:00,963 : 4.0, +, 2 => equals clicked
+64 : 2022-06-12 18:49:02,387 : Clear All : CE clicked
+44 : 2022-06-12 18:49:03,499 : thisOperand:3 => 3 clicked
+105 : 2022-06-12 18:49:04,185 : not isChain => - clicked
+44 : 2022-06-12 18:49:04,731 : thisOperand:6 => 6 clicked
+115 : 2022-06-12 18:49:05,523 : -3.0, -, 6 => equals clicked
+64 : 2022-06-12 18:49:06,718 : Clear All : CE clicked
+64 : 2022-06-12 18:49:07,195 : Clear All : CE clicked
+44 : 2022-06-12 18:49:08,227 : thisOperand:9 => 9 clicked
+105 : 2022-06-12 18:49:08,851 : not isChain => * clicked
+44 : 2022-06-12 18:49:09,523 : thisOperand:8 => 8 clicked
+115 : 2022-06-12 18:49:10,131 : 72.0, *, 8 => equals clicked
+64 : 2022-06-12 18:49:11,187 : Clear All : CE clicked
+64 : 2022-06-12 18:49:11,571 : Clear All : CE clicked
+44 : 2022-06-12 18:49:15,347 : thisOperand:7 => 7 clicked
+44 : 2022-06-12 18:49:15,915 : thisOperand:72 => 2 clicked
+105 : 2022-06-12 18:49:16,435 : not isChain => / clicked
+44 : 2022-06-12 18:49:18,387 : thisOperand:8 => 8 clicked
+115 : 2022-06-12 18:49:18,939 : 9.0, /, 8 => equals clicked
+76 : 2022-06-12 18:49:20,075 : (+/-)-9.0 => neg clicked
+91 : 2022-06-12 18:49:21,299 : isChain & not thisOperand => * clicked
+44 : 2022-06-12 18:49:21,859 : thisOperand:3 => 3 clicked
+115 : 2022-06-12 18:49:22,675 : -27.0, *, 3 => equals clicked
+64 : 2022-06-12 18:49:23,963 : Clear All : CE clicked
+85 : 2022-06-12 18:49:25,363 : Decimal => decimal clicked
+44 : 2022-06-12 18:49:26,579 : thisOperand:.5 => 5 clicked
+71 : 2022-06-12 18:49:28,918 : (+/-)-0.5 => neg clicked
+105 : 2022-06-12 18:49:29,859 : not isChain => * clicked
+44 : 2022-06-12 18:49:30,459 : thisOperand:6 => 6 clicked
+115 : 2022-06-12 18:49:31,115 : -3.0, *, 6 => equals clicked
+64 : 2022-06-12 18:49:32,307 : Clear All : CE clicked
+44 : 2022-06-12 18:49:35,803 : thisOperand:6 => 6 clicked
+44 : 2022-06-12 18:49:37,099 : thisOperand:66 => 6 clicked
+105 : 2022-06-12 18:49:39,719 : not isChain => / clicked
+44 : 2022-06-12 18:49:40,603 : thisOperand:8 => 8 clicked
+115 : 2022-06-12 18:49:41,091 : 8.25, /, 8 => equals clicked
+64 : 2022-06-12 18:49:43,557 : Clear All : CE clicked
+39 : 2022-06-12 18:49:44,821 : Exiting
+44 : 2022-06-12 18:50:40,786 : thisOperand:1 => 1 clicked
+105 : 2022-06-12 18:50:41,497 : not isChain => + clicked
+44 : 2022-06-12 18:50:42,178 : thisOperand:2 => 2 clicked
+115 : 2022-06-12 18:50:42,882 : 3.0, +, 2 => equals clicked
+91 : 2022-06-12 18:50:43,890 : isChain & not thisOperand => - clicked
+44 : 2022-06-12 18:50:44,458 : thisOperand:6 => 6 clicked
+115 : 2022-06-12 18:50:45,138 : -3.0, -, 6 => equals clicked
+91 : 2022-06-12 18:50:46,521 : isChain & not thisOperand => * clicked
+44 : 2022-06-12 18:50:47,171 : thisOperand:9 => 9 clicked
+115 : 2022-06-12 18:50:47,754 : -27.0, *, 9 => equals clicked
+91 : 2022-06-12 18:50:48,738 : isChain & not thisOperand => / clicked
+44 : 2022-06-12 18:50:49,786 : thisOperand:3 => 3 clicked
+71 : 2022-06-12 18:50:50,810 : (+/-)-3.0 => neg clicked
+115 : 2022-06-12 18:50:51,571 : 9.0, /, -3.0 => equals clicked
+64 : 2022-06-12 18:50:52,674 : Clear All : CE clicked
+44 : 2022-06-12 18:50:53,889 : thisOperand:6 => 6 clicked
+71 : 2022-06-12 18:50:54,386 : (+/-)-6.0 => neg clicked
+71 : 2022-06-12 18:50:54,897 : (+/-)6.0 => neg clicked
+105 : 2022-06-12 18:50:56,586 : not isChain => * clicked
+44 : 2022-06-12 18:50:57,153 : thisOperand:8 => 8 clicked
+85 : 2022-06-12 18:50:58,010 : Decimal => decimal clicked
+44 : 2022-06-12 18:50:58,522 : thisOperand:8.5 => 5 clicked
+115 : 2022-06-12 18:50:59,530 : 51.0, *, 8.5 => equals clicked
+64 : 2022-06-12 18:51:01,145 : Clear All : CE clicked
+64 : 2022-06-12 18:51:01,473 : Clear All : CE clicked
+39 : 2022-06-12 18:51:10,508 : Exiting
+44 : 2022-06-12 18:54:29,286 : thisOperand:1 => 1 clicked
+105 : 2022-06-12 18:54:30,006 : not isChain => + clicked
+44 : 2022-06-12 18:54:30,575 : thisOperand:2 => 2 clicked
+115 : 2022-06-12 18:54:31,174 : 3.0, +, 2 => equals clicked
+76 : 2022-06-12 18:54:33,278 : (+/-)-3.0 => neg clicked
+76 : 2022-06-12 18:54:33,942 : (+/-)3.0 => neg clicked
+76 : 2022-06-12 18:54:34,814 : (+/-)-3.0 => neg clicked
+91 : 2022-06-12 18:54:35,814 : isChain & not thisOperand => - clicked
+44 : 2022-06-12 18:54:36,606 : thisOperand:9 => 9 clicked
+115 : 2022-06-12 18:54:37,334 : -12.0, -, 9 => equals clicked
+76 : 2022-06-12 18:54:38,798 : (+/-)12.0 => neg clicked
+91 : 2022-06-12 18:54:40,086 : isChain & not thisOperand => * clicked
+44 : 2022-06-12 18:54:41,902 : thisOperand:5 => 5 clicked
+115 : 2022-06-12 18:54:42,902 : 60.0, *, 5 => equals clicked
+76 : 2022-06-12 18:54:44,974 : (+/-)-60.0 => neg clicked
+91 : 2022-06-12 18:54:45,662 : isChain & not thisOperand => / clicked
+44 : 2022-06-12 18:54:47,174 : thisOperand:3 => 3 clicked
+115 : 2022-06-12 18:54:47,918 : -20.0, /, 3 => equals clicked
+64 : 2022-06-12 18:54:50,573 : Clear All : CE clicked
+64 : 2022-06-12 18:54:51,062 : Clear All : CE clicked
+85 : 2022-06-12 18:54:51,758 : Decimal => decimal clicked
+44 : 2022-06-12 18:54:52,477 : thisOperand:.7 => 7 clicked
+44 : 2022-06-12 18:54:53,182 : thisOperand:.75 => 5 clicked
+105 : 2022-06-12 18:54:54,070 : not isChain => * clicked
+44 : 2022-06-12 18:54:54,885 : thisOperand:3 => 3 clicked
+44 : 2022-06-12 18:54:55,662 : thisOperand:30 => 0 clicked
+115 : 2022-06-12 18:54:56,334 : 22.5, *, 30 => equals clicked
+64 : 2022-06-12 18:54:57,790 : Clear All : CE clicked
+39 : 2022-06-12 18:55:01,119 : Exiting
