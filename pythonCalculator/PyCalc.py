@@ -1,9 +1,9 @@
 import PySimpleGUI as sg
-from pythonCalculator.calculator import *
+from calculator import *
 import logging
 import time
 
-logging.basicConfig(filename='pythonCalculator/pyCalcLog.log',
+logging.basicConfig(filename='pyCalcLog.log',
                     level= logging.INFO,
                     format= '%(lineno)d : %(asctime)s : %(message)s')
 
@@ -18,7 +18,7 @@ output_row = [sg.Text(
                 )]
 
 layout = [output_row,
-          [sg.Button('!C', size=(5,2)),sg.Button('CE', size=(5,2)),sg.Button('+/-', size=(5,2), key='neg'),sg.Button('/', size=(5,2))],
+          [sg.Button('C', size=(5,2)),sg.Button('CE', size=(5,2)),sg.Button('+/-', size=(5,2), key='neg'),sg.Button('/', size=(5,2))],
           [sg.Button(1, size=(5,2)),sg.Button(2, size=(5,2)),sg.Button(3, size=(5,2)),sg.Button('*', size=(5,2))],
           [sg.Button(4, size=(5,2)),sg.Button(5, size=(5,2)),sg.Button(6, size=(5,2)),sg.Button('-', size=(5,2))],
           [sg.Button(7, size=(5,2)),sg.Button(8, size=(5,2)),sg.Button(9, size=(5,2)),sg.Button('+', size=(5,2))],
