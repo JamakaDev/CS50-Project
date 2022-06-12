@@ -1,5 +1,5 @@
 import PySimpleGUI as sg
-from basic_calculator import *
+from pythonCalculator.calculator import *
 import logging
 import time
 

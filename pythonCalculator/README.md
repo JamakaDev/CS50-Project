@@ -42,3 +42,22 @@ that impressive is something even I thought...haha
   - I went with a 4x5 button layout & display above that
   - The color scheme I went with were the Python OG blue & yellow
 3. Once the application was working, I then decided to implement a logging system to review upon any errors the *USER* may incur!
+  - The logging file holds the logs for when the PyCalc is being executed.
+  - *A log message contains the following*:
+    1. **Operands**
+    2. **Operators**
+    3. **Function/location**
+    4. **Timestamp**
+4. Upon completion of the application, I researched testing of the code.
+  - I came to find quite a few options in Python
+  - *Just to name a hand full*:
+    1. **Robot**
+    2. **PyTest**
+    3. **Unittest**
+    4. **DocTest**
+  -For the purpose of this lil project, I chose to go with **Unittest**.
+  -Unittest is *built-in* to **Python** and easily imported -> implemented!
+  - I did this through a seperate file to keep the testing code from **clogging** up the source/ production code.
+
+
+## I would like to formally **Thank You** for taking the time to read through this adventure or journey of mine! I decided 7 months ago (Nov 2021) that I was going to start my journey to become self-taught developer! I would also like to send big shout out to the **CS50** staff for all the hard work and dedication put into this curriculum accessible to the public!!
