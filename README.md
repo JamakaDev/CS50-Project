@@ -60,4 +60,4 @@ that impressive is something even I thought...haha
   - I did this through a seperate file to keep the testing code from **clogging** up the source/ production code.
 
 
-## I would like to formally **Thank You** for taking the time to read through this adventure or journey of mine! I decided 7 months ago (Nov 2021) that I was going to start my journey to become self-taught developer! I would also like to send big shout out to the **CS50** staff for all the hard work and dedication put into this curriculum accessible to the public!!
+## I would like to formally *Thank You* for taking the time to read through this adventure or journey of mine! I decided 7 months ago (Nov 2021) that I was going to start my journey to become self-taught developer! I would also like to send big shout out to the *CS50* staff for all the hard work and dedication put into this curriculum accessible to the public!!
