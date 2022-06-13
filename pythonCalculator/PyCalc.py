@@ -22,7 +22,7 @@ layout = [output_row,
           [sg.Button(1, size=(5,2)),sg.Button(2, size=(5,2)),sg.Button(3, size=(5,2)),sg.Button('*', size=(5,2))],
           [sg.Button(4, size=(5,2)),sg.Button(5, size=(5,2)),sg.Button(6, size=(5,2)),sg.Button('-', size=(5,2))],
           [sg.Button(7, size=(5,2)),sg.Button(8, size=(5,2)),sg.Button(9, size=(5,2)),sg.Button('+', size=(5,2))],
-          [sg.Button(0, size=(5,2)),sg.Button('.', size=(5,2), key='decimal'),sg.Button('=', size=(12,2), key='equals', pad=6)]]
+          [sg.Button(0, size=(5,2)),sg.Button('.', size=(5,2), key='decimal'),sg.Button('=', size=(16,2), key='equals', pad=3)]]
 
 window = sg.Window('PyCalc', layout, background_color='#ffd43b', button_color='#306998')
 
